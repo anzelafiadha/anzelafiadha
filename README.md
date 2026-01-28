@@ -2,14 +2,12 @@
 
 ## Projects
 ### 📊 Data Science
-* **[Sentiment Analysis Model](https://github.com/YOUR_USERNAME/sentiment-analysis-naive-bayes)**
-  <br> *Predicting social media sentiment using Naïve Bayes and TF-IDF.*
+* **[Brand Reputation Sentiment Analysis](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)**
+  <br> *End-to-end NLP system built for PT Asamerta Harapan Abadi to analyze brand sentiment on X (Twitter). Features an automated pipeline using Naïve Bayes, TF-IDF, and InSet Lexicon for auto-labeling, visualized via a Streamlit dashboard.*
 
 ### 📊 Analytics & Dashboard
 * **[Media Monitoring System](https://github.com/YOUR_USERNAME/retool-elasticsearch-dashboard)**
   <br> *Real-time media tracking dashboard built with Retool and Elasticsearch.*
-* **[Sales Performance Tracker](https://github.com/YOUR_USERNAME/sales-dashboard)**
-  <br> *Automated reporting system using Accurate ERP data.*
 
 ## Skills
   ![Power Bi](https://img.shields.io/badge/Power_BI-8d8d8d?style=for-the-badge&logo=powerbi&logoColor=black)
