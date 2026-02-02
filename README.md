@@ -6,8 +6,8 @@
   <br> *End-to-end NLP system built to analyze brand sentiment on X (Twitter). Features an automated pipeline using Naïve Bayes, TF-IDF, and InSet Lexicon for auto-labeling, visualized via a Streamlit dashboard.*
 
 ### 📊 Analytics & Dashboard
-* **[Media Monitoring System](https://github.com/YOUR_USERNAME/retool-elasticsearch-dashboard)**
-  <br> *Real-time media tracking dashboard built with Retool and Elasticsearch.*
+* **[Social Media Engagement Dashboard](https://github.com/anzelafiadha/Social-Media-Engagement-Dashboard)**
+  <br> *This project is an interactive Power BI dashboard that visualizes social media performance and sentiment analysis results.*
 
 ## Skills
   ![Power Bi](https://img.shields.io/badge/Power_BI-8d8d8d?style=for-the-badge&logo=powerbi&logoColor=black)
