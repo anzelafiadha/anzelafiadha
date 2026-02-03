@@ -6,7 +6,7 @@
   <br> *End-to-end NLP system built to analyze brand sentiment on X (Twitter). Features an automated pipeline using Naïve Bayes, TF-IDF, and InSet Lexicon for auto-labeling, visualized via a Streamlit dashboard.*
 
 ### 📊 Analytics & Dashboard
-* **[Social Media Engagement Dashboard](https://github.com/anzelafiadha/Social-Media-Engagement-Dashboard)**
+* **[Social Media Engagement Dashboard](https://www.linkedin.com/posts/anzelafiadha_powerbi-dataanalytics-dashboard-activity-7423355603546218496-61Qk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUiEEBMEiNLvRfqxG9IqxKd5HEzSwUn58)**
   <br> *This project is an interactive Power BI dashboard that visualizes social media performance and sentiment analysis results.*
 
 ## Skills
