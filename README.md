@@ -8,7 +8,7 @@
 ### 📊 Analytics & Dashboard
 * **[Social Media Engagement Dashboard](https://www.linkedin.com/posts/anzelafiadha_powerbi-dataanalytics-dashboard-activity-7423355603546218496-61Qk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUiEEBMEiNLvRfqxG9IqxKd5HEzSwUn58)**
   <br> *This project is an interactive Power BI dashboard that visualizes social media performance and sentiment analysis results.*
-  * **[Financial Fraud Dashboard](https://www.linkedin.com/posts/anzelafiadha_powerbi-fraudanalytics-dataanalytics-ugcPost-7426983656742875137-Ym6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUiEEBMEiNLvRfqxG9IqxKd5HEzSwUn58)**
+* **[Financial Fraud Dashboard](https://www.linkedin.com/posts/anzelafiadha_powerbi-fraudanalytics-dataanalytics-ugcPost-7426983656742875137-Ym6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUiEEBMEiNLvRfqxG9IqxKd5HEzSwUn58)**
   <br> *This project is an interactive Power BI dashboard that visualizes financial fraud.*
 
 ## Skills
