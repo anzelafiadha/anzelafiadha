@@ -3,13 +3,17 @@
 ## Projects
 ### 📊 Data Science
 * **[Brand Reputation Sentiment Analysis](https://github.com/anzelafiadha/Brand-Reputation-Sentiment-Analysis)**
-  <br> *End-to-end NLP system built to analyze brand sentiment on X (Twitter). Features an automated pipeline using Naïve Bayes, TF-IDF, and InSet Lexicon for auto-labeling, visualized via a Streamlit dashboard.*
+  <br> *End-to-end NLP system built to analyze brand sentiment on X (Twitter). Features an automated pipeline using Naïve Bayes, TF-IDF, and InSet Lexicon for auto-labeling, visualized via a Streamlit dashboard*
 
 ### 📊 Analytics & Dashboard
 * **[Social Media Engagement Dashboard](https://www.linkedin.com/posts/anzelafiadha_powerbi-dataanalytics-dashboard-activity-7423355603546218496-61Qk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUiEEBMEiNLvRfqxG9IqxKd5HEzSwUn58)**
-  <br> *This project is an interactive Power BI dashboard that visualizes social media performance and sentiment analysis results.*
+  <br> *This project is an interactive Power BI dashboard that visualizes social media performance and sentiment analysis results*
 * **[Financial Fraud Dashboard](https://www.linkedin.com/posts/anzelafiadha_powerbi-fraudanalytics-dataanalytics-ugcPost-7426983656742875137-Ym6r?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUiEEBMEiNLvRfqxG9IqxKd5HEzSwUn58)**
-  <br> *This project is an interactive Power BI dashboard that visualizes financial fraud.*
+  <br> *This project is an interactive Power BI dashboard that visualizes financial fraud*
+
+### 📊 Data Processing & Analysis
+* **[ETL Data Pipeline & Analysis Case Study](https://www.linkedin.com/posts/anzelafiadha_powerbi-dataanalytics-dashboard-activity-7423355603546218496-61Qk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUiEEBMEiNLvRfqxG9IqxKd5HEzSwUn58)**
+  <br> *This project presents a simplified case study of an ETL (Extract, Transform, Load) process*
 
 ## Skills
   ![Power Bi](https://img.shields.io/badge/Power_BI-8d8d8d?style=for-the-badge&logo=powerbi&logoColor=black)
