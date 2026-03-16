@@ -12,7 +12,7 @@
   <br> *This project is an interactive Power BI dashboard that visualizes financial fraud*
 
 ### 📊 Data Processing & Analysis
-* **[ETL Data Pipeline & Analysis Case Study](https://www.linkedin.com/posts/anzelafiadha_powerbi-dataanalytics-dashboard-activity-7423355603546218496-61Qk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAUiEEBMEiNLvRfqxG9IqxKd5HEzSwUn58)**
+* **[ETL Data Pipeline & Analysis Case Study](https://github.com/anzelafiadha/data-pipeline-analysis-case-study/tree/main)**
   <br> *This project presents a simplified case study of an ETL (Extract, Transform, Load) process*
 
 ## Skills
